@@ -1,0 +1,124 @@
+
+
+
+
+1.	PLANEAMENTO
+	________________________________________
+	
+	Aplicação:				"Website do Restaurante Alface"
+	
+	Descrição:				O cliente pretende um website simples, com a apresentação da ementa,
+						localização, descrição do restaurante e sistema de reservas online.
+	
+	Plataforma de gestão:		Foi escolhida a plataforma GitHub para fazer a gestão de desenvolvimento.
+	
+	Equipa:				1x Team-leader, 2x Developer Frontend, 1x Developer Backend, 1x Designer Gráfico.
+	
+	Prazos:				7 dias para o design e desenvolvimento do website.
+						3 dias para a desenvolvimento da base dados.
+						2 dias para fase de testes.
+						1 dias para o deployment.
+						4 dias para pré-produção.
+						(total: 17 dias)
+	
+	Custos desenvolvimento:	6.500 €
+	Custos implementação:		8,21 € /mês ("www.a2hosting.com" - Domínio / Hospedagem / Base de dados.)
+	________________________________________
+	
+
+
+
+
+
+2.	REQUERIMENTOS
+	________________________________________
+
+	Req. Funcionais:			Apresentação da ementa;
+						Localização;
+						Descrição do restaurante;
+						Sistema de reservas online;
+	
+	Req. Não-funcionais:		O site tem de estar a funcionar 99,9% do tempo.
+						Workload de até 100 utilizadores em simultâneo.
+
+
+
+3.	DESIGN
+	________________________________________
+	
+	Base de dados:			Definído pelo fornecedor de hospedagem.
+
+	Desenvolvimento:			HTML5 + CSS + Javascript
+
+	Ferramentas de apoio:		Designer irá utilizar Photoshop.
+						Developers vão utilizar Brackets.
+						A equipa irá utilizar o GitHub para gestão de versões.
+						
+
+
+4.	CODING
+	________________________________________
+	
+	Dois developers Frontend fazem o código, esse código irá ser revisto pelo Team-leader.
+	O developer Backend desenvolve o sistema de reservas e o seu código é revisto pelo Team-leader.
+	
+	Foi acordado que no ínicio da semana é realizado uma reunião de definição de tarefas e objetivos,
+	no final da semana irá ser realizada uma outra reunião de aconpanhemento e avaliação ao trabalho
+	desenvolvido.
+
+
+
+
+
+5.	TESTING
+	________________________________________
+	
+	Dois testes de performance, um com 50 utilizadores em simultâneo e outro com 100 utilizadores.
+	Testes de funcionalidade, para ver se as reservas estão a funcionar.
+	Verificação da formatação e layout do website.
+	Testes de segurança à base de dados.
+
+
+
+
+
+6.	DEPLOYMENT
+	________________________________________
+	
+	Upload dos ficheiros do website para o serviço de hospedagem, mas com acesso previligiado para apenas X pessoas.
+	Configuração do domínio.
+
+	Implementação em pré-produção com vista à detecção de bugs.
+	Implementação em produção.
+
+
+
+
+7.	MAINTENANCE
+	________________________________________
+	
+	Suporte ao cliente com vista à correcção de bugs.
+	
+	O cliente pretende fazer uma adaptação ao sistema de reservas de modo a permitir fazer encomendas takeaway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+
+
+
+
+
